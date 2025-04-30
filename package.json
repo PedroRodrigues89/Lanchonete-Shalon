@@ -2,7 +2,7 @@
   "name": "minha-lanchonete",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https//PedroRodrigues89.github.io/Lanchonete-Shalon",
+  "homepage":"https//PedroRodrigues89.github.io/minha-lanchonete",
   "type": "module",
   "scripts": {
     "dev": "vite",
