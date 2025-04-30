@@ -22,7 +22,7 @@ function App() {
 			</div>
       <div class="titulo-Cardapio">
 
-      <h1>Lanchonete Shalom</h1>
+      <h1>Lanchonete Shalon</h1>
       <Cardapio/>
 
       </div>
