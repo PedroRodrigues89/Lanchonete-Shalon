@@ -20,7 +20,7 @@ function Cardapio(){
                 <div key={index} className="menu-item">
                     <h3> {item.nome}  </h3>
                     <p>R$ {item.preco.toFixed(2)}  </p> 
-                    <img src={item.imagem} className="menu-item-img"></img>
+                    <img src={item.imagens} className="menu-item-img"></img>
                     <input type="number" className="quantidade-input" placeholder="qtde." />
                 </div>
             ))
